@@ -3,8 +3,8 @@ package mastodon_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/mastodon"
+	"github.com/chizutan5/goth"
+	"github.com/chizutan5/goth/providers/mastodon"
 	"github.com/stretchr/testify/assert"
 )
 
